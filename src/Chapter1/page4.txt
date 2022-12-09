@@ -1,0 +1,2 @@
+here we go. Git to Github and then share file is where we do it or
+we create a file on github and work backwards
